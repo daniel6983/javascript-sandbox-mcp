@@ -1,6 +1,8 @@
-# Run JavaScript Sandbox MCP Server
+# JavaScript Sandbox MCP Server
 
 A Model Context Protocol (MCP) server that executes JavaScript code securely in a sandboxed environment using [SES (Secure ECMAScript)](https://github.com/endojs/endo/tree/master/packages/ses).
+
+https://github.com/user-attachments/assets/654f71e7-fb88-41ca-a6d0-634cc07fe426
 
 ## Features
 
