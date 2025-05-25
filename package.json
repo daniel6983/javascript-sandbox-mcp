@@ -16,7 +16,7 @@
     "watch": "tsx watch src/index.ts"
   },
   "bin": {
-    "javascript-sandbox-mcp": "build/index.js"
+    "javascript-sandbox-mcp": "./build/index.js"
   },
   "files": [
     "build"
