@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import "ses";
 import { z } from "zod";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
