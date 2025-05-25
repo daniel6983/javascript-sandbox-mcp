@@ -1,6 +1,6 @@
 {
   "name": "javascript-sandbox-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Model Context Protocol server for running JavaScript code in a secure SES compartment",
   "author": "Shane Johnson",
   "license": "MIT",
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "tsx src/index.ts",
-    "build": "tsc && chmod +x build/index.js",
+    "build": "tsc && chmod u+x build/index.js",
     "inspector": "npx @modelcontextprotocol/inspector build/index.js",
     "watch": "tsx watch src/index.ts"
   },
